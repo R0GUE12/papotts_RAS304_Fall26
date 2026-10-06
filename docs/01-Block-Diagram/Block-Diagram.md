@@ -19,4 +19,4 @@ The purpose of this chip is to act as a controller for the rest of the chips tha
 
 ## Block Diagram 
 
-![Example of Indivial Block diagram ](Individual Block Diagram Potts (1).svg)
+![Example of Indivial Block diagram ](Individual Block Diagram Potts (2).svg)
