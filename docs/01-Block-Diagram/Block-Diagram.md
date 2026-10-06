@@ -21,7 +21,7 @@ The purpose of this chip is to act as a controller for the rest of the chips tha
 * UART
 
 
-#To get some initial formatting help, one can view ["here"](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Appendix/basic-markdown-examples/) some basic techniques.
+-To get some initial formatting help, one can view ["here"](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Appendix/basic-markdown-examples/) some basic techniques.
 
 
 ## Block Diagram 
