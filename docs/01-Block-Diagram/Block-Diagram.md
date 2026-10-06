@@ -1,12 +1,11 @@
 ---
-title: Individal Block Diagram
+title: Individual Block Diagram
 tags:
 - tag1
 - tag2
 ---
 
 ---
-title: Individal Block Diagram
 
 
 ## Overview
