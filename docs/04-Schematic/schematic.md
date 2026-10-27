@@ -8,7 +8,6 @@ This schematic uses an external 9V power source to power and control a robotic l
 
 
 ![schematic](Subsystem Schematic Design.svg){style width:"350" height:"300;"}
-**Figure ##:** Showing a example schematic.
 
 
 ## Resouces
