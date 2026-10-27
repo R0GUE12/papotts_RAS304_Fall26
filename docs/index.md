@@ -14,6 +14,8 @@ for<br>
 **Submission: December, 8, 2026**
 </center>
 
+![](Concept2_Leg.pdf)
+
 ### Project Summary
 
 * The Team project that this page is contributing to is building a robot spider leg using linear actutuators on the leg and a servo motor as the hip. [team report.](https://ras304-fall26-102.github.io/)
