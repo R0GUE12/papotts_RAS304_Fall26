@@ -10,8 +10,6 @@ These are the materials needed for the spider leg controller.
 
 ## Bill of Materials
 
-*Table ##: An example of one approach to adding your BOM table to this section.*
-
 | **Part Name/Description** | **Qty** | **Unit Cost** | **Total Cost** | **Manufacture** | **Manufacturer #** | **Vendor Link** |**Datasheet Link** | **Schematic Reference Designators** |
 |:--------------------|:----|:---------------|:-----|:--------|:-----|:-----|:----|:-----|
 LM7805 | 1 | $1.86 | $1.86 | Texas Instruments | LM7805CT/NOPB | [DigiKey](https://www.digikey.com/en/products/detail/texas-instruments/LM7805CT-NOPB/3901929) | [datasheet link](https://www.ti.com/lit/ds/symlink/lm7800.pdf) | LM7805-PAP |
