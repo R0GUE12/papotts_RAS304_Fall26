@@ -12,7 +12,7 @@ These are the materials needed for the spider leg controller.
 
 | **Part Name/Description** | **Qty** | **Unit Cost** | **Total Cost** | **Manufacture** | **Manufacturer #** | **Vendor Link** |**Datasheet Link** | **Schematic Reference Designators** |
 |:--------------------|:----|:---------------|:-----|:--------|:-----|:-----|:----|:-----|
-LM7805 | 1 | $1.86 | $1.86 | Texas Instruments | LM7805CT/NOPB | [DigiKey](https://www.digikey.com/en/products/detail/texas-instruments/LM7805CT-NOPB/3901929) | [datasheet link](https://www.ti.com/lit/ds/symlink/lm7800.pdf) | LM7805-PAP |
+IC REG LINEAR 5V 1.5A TO220-3 | 1 | $1.86 | $1.86 | Texas Instruments | LM7805CT/NOPB | [DigiKey](https://www.digikey.com/en/products/detail/texas-instruments/LM7805CT-NOPB/3901929) | [datasheet link](https://www.ti.com/lit/ds/symlink/lm7800.pdf) | LM7805-PAP |
 0.1 µF ±10% 50V Ceramic Capacitor X7R Radial |1 | $0.31 | $0.31 | Vishay Beyschlag/Draloric/BC Components | K104K15X7RF5TL2 | [DigiKey](https://www.digikey.com/en/products/detail/ishay-beyschlag-draloric-bc-components/K104K15X7RF5TL2/286538) | [datasheet link](https://www.vishay.com/docs/45171/kseries.pdf) | C2 |
 0.33 µF ±20% 50V Ceramic Capacitor Z5U Radial | 1 | $0.74 | $0.74 | KEMET | C322C334M5U5TA | [DigiKey](https://www.digikey.com/en/products/detail/kemet/C322C334M5U5TA/818140) | [datasheet link](https://yageogroup.com/content/datasheet/asset/file/KEM_C1051_GOLDMAX_Z5U) | C1 |
 RES 80.6 OHM 1% 1/4W AXIAL | 1 | $0.042 | $0.42 | YEGEO | MFR-25FBF52-80R6 | [DigiKey](https://www.digikey.com/en/products/detail/yageo/MFR-25FBF52-80R6/12777) | [datasheet link](https://yageogroup.com/content/Resource%20Library/Datasheet/YAGEO-MFR_DATASHEET.pdf) | R7 |
